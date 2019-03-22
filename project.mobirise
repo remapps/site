@@ -40,7 +40,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/remapps-favicon-128x102-1.png",
     "noImageResize": "",
-    "cookiesAlert": "Este sitio utiliza cookies con el fin de mejorar la experiencia de usuario. Para mayor información puedes visitar nuestra <a href='cookies-policy.html'>Política de Cookies</a>.",
+    "cookiesAlert": "Este sitio utiliza cookies con el fin de mejorar la experiencia de usuario. Para mayor información puedes visitar nuestra <a href='cookies-policy.html'><b>Política de Uso de Cookies</b></a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "",
     "uniqCompNum": 25,
