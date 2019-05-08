@@ -41,8 +41,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/remapps-favicon-128x102-1.png",
     "noImageResize": "",
     "cookiesAlert": "Este sitio utiliza cookies con el fin de mejorar la experiencia de usuario. Si usted continúa navegando sin modificar la configuración de su navegador, usted acepta el uso de cookies. Usted podrá permitir, bloquear o eliminar las cookies instaladas mediante la configuración de las opciones del navegador. Para mayor información puedes visitar nuestra <a href='cookies-policy.html'><b>Política de Uso de Cookies</b></a>.",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "google-analytics": "",
+    "gdpr": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-139874380-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-139874380-1');\r\n</script>",
     "uniqCompNum": 18,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
