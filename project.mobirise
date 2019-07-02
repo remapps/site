@@ -36,7 +36,7 @@
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://remapps.cl/",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/remapps-favicon-128x102-1.png",
     "noImageResize": "",
@@ -54,7 +54,8 @@
       "underlineLink": true,
       "opacity": "99",
       "text": "Este sitio utiliza cookies con el fin de mejorar la experiencia de usuario. Si usted continúa navegando sin modificar la configuración de su navegador, usted acepta el uso de cookies. Para mayor información puedes visitar nuestra <a href='cookies-policy.html'><b>Política de Uso de Cookies</b></a>."
-    }
+    },
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
