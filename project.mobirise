@@ -62,7 +62,7 @@
       "settings": {
         "main": true,
         "title": "Remapps S.A. || Soluciones Informáticas",
-        "meta_descr": "",
+        "meta_descr": "Por qué elegirnos?\n\nLes damos razones suficientes por el cuál elegirnos y depositarnos su confianza.\n\n1. Honestidad y confiabilidad\n2. Siempre estamos mejorando\n3. Pasión en lo que hacemos",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1569,7 +1569,7 @@
     },
     "cookies-policy.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Políticas de uso de cookies.\n\nPolítica: El prestador por su propia cuenta o la de un tercero contratado para la prestación de servicios de medición, pueden utilizar cookies cuando un usuario navega por el sitio web. Las cookies son ficheros enviados al navegador por medio de un servidor web con la finalidad de registrar las actividades del usuario durante su tiempo de navegación.\n\nLas cookies utilizadas por el sitio web se asocian únicamente con un usuario anónimo y su ordenador, y no proporcionan por sí mismas los datos personales del usuario. ",
         "title": "Remapps S.A. || Políticas de Cookies",
         "order": 3
       },
@@ -2252,7 +2252,7 @@
     },
     "about-us.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Quiénes somos\n\nREMAPPS S.A. fundada en febrero de 2019 con base en Santiago de Chile, corresponde a una empresa Start-Up que busca posicionarse con fuerza y energía en el competitivo mundo de las soluciones de software a medida.",
         "title": "Remapps S.A. || Quiénes somos",
         "order": 2
       },
@@ -3149,7 +3149,7 @@
     },
     "careers.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Trabaja con nosotros\nSé parte de nuestro equipo de trabajo.\n\nEl equipo humano ha sido siempre la clave del éxito. En nuestra empresa te ofreceremos un excelente ambiente de trabajo donde poder desarrollar todas tus capacidades para crecer profesional y personalmente.\n\nEnvíanos tu Curriculum Vitae a empleos@remapps.cl o completa el siguiente formulario y pronto nos pondremos en contacto para continuar con el proceso.",
         "title": "Remapps S.A. || Trabaja con nosotros",
         "order": 1
       },
